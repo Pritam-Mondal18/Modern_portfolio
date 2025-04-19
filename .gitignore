@@ -23,5 +23,8 @@ dist-ssr
 *.sln
 *.sw?
 
+#public files
+images
+
 # src files
 .output.css
